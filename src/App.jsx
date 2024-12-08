@@ -1,3 +1,4 @@
+// Task 5. Render Charts in the App
 
 import React, { useState, useEffect } from 'react';
 import './App.css';
